@@ -7,8 +7,8 @@
 <div>
   <a href="https://github.com/BruRaptor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BruRaptor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruRaptor&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+    <img src="https://camo.githubusercontent.com/a08aae907c6eea512c73b6b65dbc0ced6e158c1483c280a1d74445c9c6da27f9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d427275526170746f72266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruRaptor&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" style="max-width: 100%;" height="150em">
+    </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

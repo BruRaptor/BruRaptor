@@ -19,6 +19,7 @@
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Java" height="50" width="45" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
+  <img align="center" alt="Bruno-MySQL" height="50" width="45" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
 </div>
 
 <div> <br>

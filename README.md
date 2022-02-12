@@ -1,8 +1,7 @@
-      ## Olá! Me chamo Bruno Ribeiro.
-    - 🎓 Atualmente estou cursando o segundo semestre em Gestão em Tecnologia da Informação (SENAC EAD).
-    - 📚 Bootcamps: Recode Pro, Generation Brasil.
-    - 🎯 Estou focando em alcançar meu objetivo que é ser um desenvolvedor FULLSTACK.
-    - 😄 Pronomes: Ele / Dele ...
+- 🎓 Atualmente estou cursando o terceiro semestre em Gestão em Tecnologia da Informação (SENAC EAD).
+- 📚 Bootcamps: Generation Brasil (Dev Java JR).
+- 🎯 Estou focando em alcançar meu objetivo de me tornar um Desenvolvedor.
+- 😄 Pronomes: Ele / Dele ...
 ##
   <div>
     <a href="https://github.com/BruRaptor?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>

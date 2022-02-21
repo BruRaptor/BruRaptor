@@ -20,11 +20,11 @@
   <img align="center" alt="Bruno-Heroku" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
   <img align="center" alt="Bruno-Angular" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Bruno-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
-  <img align="center" alt="Bruno-Github" height="50" width="55" src="https://cdn-icons-png.flaticon.com/512/733/733553.png">
+  <img align="center" alt="Bruno-Github" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/733/733553.png">
 </div>
 
 <div> <br>
   
-  <a href="https://www.youtube.com/c/VidaSmart" target="_blank"><img align="center" alt="Bruno-Github" height="50" width="50" src="https://cdn-icons.flaticon.com/png/512/3128/premium/3128307.png?token=exp=1645472135~hmac=05281cbecec3198f16d541e3d3c70025" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-kyo" target="_blank"><img align="center" alt="Bruno-Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
-  <a href = "mailto:brunoribeirokyo@gmail.com"><img align="center" alt="Bruno-Github" height="50" width="50" src="https://cdn-icons.flaticon.com/png/512/3128/premium/3128267.png?token=exp=1645472488~hmac=ad71a02aefbb95e562385ca26a8b5395" target="_blank"></a>
+  <a href="https://www.youtube.com/c/VidaSmart" target="_blank"><img align="center" alt="Bruno-Github" height="100" width="200" src="https://www.logo.wine/a/logo/YouTube/YouTube-Logo.wine.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-kyo" target="_blank"><img align="center" alt="Bruno-Github" height="100" width="200" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" target="_blank"></a>
+  <a href = "mailto:brunoribeirokyo@gmail.com"><img align="center" alt="Bruno-Github" height="100" width="200" src="https://www.logo.wine/a/logo/Google/Google-Logo.wine.svg" target="_blank"></a>

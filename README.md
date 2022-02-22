@@ -1,5 +1,5 @@
 - 🎓 Atualmente estou cursando o terceiro semestre em Gestão em Tecnologia da Informação (SENAC EAD).
-- 📚 Bootcamps: Generation Brasil (Dev Java JR).
+- 📚 Bootcamps: Generation Brasil (Desenvolvedor Java JR FullStack).
 - 🎯 Estou focando em alcançar meu objetivo de me tornar um Desenvolvedor.
 - 😄 Pronomes: Ele / Dele ...
 ##

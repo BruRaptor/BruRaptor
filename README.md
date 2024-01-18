@@ -1,4 +1,5 @@
-- 🎓 Atualmente estou cursando o terceiro semestre em Gestão em Tecnologia da Informação (SENAC EAD).
+- 🎓 Formado em Gestão em Tecnologia da Informação (SENAC).
+- 💻 Trabalhos: SIS Innov & Tech.
 - 📚 Bootcamps: Generation Brasil (Desenvolvedor Java JR FullStack).
 - 🎯 Estou focando em alcançar meu objetivo de me tornar um Desenvolvedor.
 - 😄 Pronomes: Ele / Dele ...
